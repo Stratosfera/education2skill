@@ -1,0 +1,12 @@
+tensorflow==2.3.0
+pandas==1.1.5
+sklearn
+Keras==2.4.3
+xlrd==1.2.0
+seaborn==0.11.1
+focal_loss==0.0.7
+transformers==4.8.1
+torch==1.9.0
+tensorflow_hub==0.12.0
+tensorflow_addons==0.13.0
+ipywidgets==7.6.3
